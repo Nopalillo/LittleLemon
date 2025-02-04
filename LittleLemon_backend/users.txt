@@ -1,4 +1,9 @@
 super user
 admin
 littlelemon-admin@
+Token: 7a37ac7e43a2b9fd769f96d754fcad533073a793
 
+user
+john
+john@littlelemon123
+Token: 2aeedbc55b767c1d1a8f91df8840b0b160bb28eb
