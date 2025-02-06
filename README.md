@@ -1,4 +1,4 @@
 # LittleLemon
-APIs paths
+APIs paths:
 restaurant/menu
 restaurant/booking/tables
